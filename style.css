@@ -329,7 +329,7 @@ p {
 	height: 100%;
 	width: 100%;
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-	opacity: .7;
+	opacity: .3;
 }
 #projects .project-img img {
 	transition: .3s ease transform;
@@ -369,6 +369,9 @@ p {
 	margin-bottom: 50px;
 	padding: 10px 20px;
 	font-size: 2rem;
+}
+span {
+	color: #ffc338;
 }
 #about .col-left .about-img {
 	height: 100%;
